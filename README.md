@@ -1,9 +1,9 @@
 # ATM Interface — Java Console Application
 
-**Developer:** Megha Kardam
-**GitHub:** github.com/Megha-kardam99
-**Language:** Java 17
-**Type:** Personal Project
+**Developer:** Megha Kardam  
+**GitHub:** [Megha-kardam99](https://github.com/Megha-kardam99)  
+**Language:** Java 17  
+**Type:** Personal Project  
 
 ---
 
